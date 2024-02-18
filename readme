@@ -1,0 +1,8 @@
+how to reproduce
+
+go run .
+
+curl http://localhost:1234/
+
+
+you should see two lines of text.
